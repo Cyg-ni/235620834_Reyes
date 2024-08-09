@@ -1,0 +1,77 @@
+    1  mkdir linux_practice
+    2  md linux_practice
+    3  cd linux_practice
+    4  touch notes.txt
+    5  ls
+    6  echo "notes.txt" >> notes.txt
+    7  ls
+    8  rm notes.txt
+    9  ls
+   10  touch notes.txt
+   11  ls
+   12  cat notes.txt
+   13  echo "notes.txt" >> notes.txt
+   14  echo "Hello, Linux!" >> notes.txt
+   15  echo "This is a practical exam." >> notes.txt
+   16  head notes.txt
+   17  tail.txt
+   18  tail notes.txr
+   19  tail notes.txt
+   20  mkdir subdir
+   21  ls
+   22  mv notes.txt subdir
+   23  ls
+   24  ren subdir practice_subdir
+   25  mv subdir practice_subdir
+   26  ls
+   27  cd practice_subdir
+   28  cp notes.txt ..
+   29  ls
+   30  cd ..
+   31  ls
+   32  date
+   33  uptime
+   34  d u -sh~
+   35  du -sh~
+   36  d u-sh ~
+   37  du-sh ~
+   38  du -sh ~
+   39  ssh -v
+   40  php -v
+   41  mysql --v
+   42  mysql -v
+   43  mysql //v
+   44  mysql -- v
+   45  mysql -version
+   46  mysql --v
+   47  mysql -- version
+   48  apache -v
+   49  apache-v
+   50  apache --v
+   51  apache -version
+   52  apache-v
+   53  apache -v
+   54  Apache -v
+   55  apache -list
+   56  Apache
+   57  Apache2 -v
+   58  Apache3 -v
+   59  python -v
+   60  python --v
+   61  python -version
+   62  python --v
+   63  python --version
+   64  list
+   65  ls
+   66  -l
+   67  -list
+   68  Java -v
+   69  java -v
+   70  git checkout -b final exam
+   71  git checkout -b finalexam
+   72  java -v
+   73  python -v
+   74  python3 -v
+   75  proot-distro login ubuntu
+   76  git checkout -b finalexam
+   77  history > exam_log.txt
